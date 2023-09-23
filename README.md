@@ -13,4 +13,3 @@ Features include,
 4. view all tasks
 
 5. view a single task
-6. 
