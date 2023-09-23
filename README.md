@@ -1,16 +1,16 @@
 # goapp
 
-A new Flutter project.
+This app implements complete CRUD operations using GoLang Api.
 
-## Getting Started
+Features include, 
 
-This project is a starting point for a Flutter application.
+1. adding task
 
-A few resources to get you started if this is your first Flutter project:
+2. remvoing task
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. editing task
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. view all tasks
+
+5. view a single task
+6. 
